@@ -60,16 +60,6 @@
          "kind": "ImageStream",
          "apiVersion": "v1",
          "metadata": {
-            "name": "centos"
-         },
-         "spec": {
-            "dockerImageRepository": "centos:centos7"
-         }
-      },
-      {
-         "kind": "ImageStream",
-         "apiVersion": "v1",
-         "metadata": {
             "name": "swaggerui"
          },
          "spec": {
